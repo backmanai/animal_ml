@@ -39,11 +39,11 @@ profile_default/
 ipython_config.py
 
 # Data files (audio files can be large)
-data/
-data/*.wav
-data/*.mp3
-data/*.ogg
-data/*.flac
+#data/
+#data/*.wav
+#data/*.mp3
+#data/*.ogg
+#data/*.flac
 # Keep directory structure but ignore audio files
 !data/.gitkeep
 
