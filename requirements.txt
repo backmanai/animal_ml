@@ -1,0 +1,11 @@
+librosa
+scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
+joblib
+gradio
+soundfile
+Pillow
+ipykernel
